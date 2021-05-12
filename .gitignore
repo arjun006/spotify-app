@@ -9,7 +9,7 @@
 
 # dependencies
 /node_modules
-/src/environment
+/src/environments
 
 
 # profiling files
